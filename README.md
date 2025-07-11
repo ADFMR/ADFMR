@@ -1,8 +1,10 @@
 # Acoustically Driven Ferromagnetic Resonance (ADFMR)
 
 ## Main GitHub: [@isabelgerrard](https://github.com/isabelgerrard)  
-Secondary GitHub (you are here):
-[@ADFMR](https://github.com/adfmr)  
+### Secondary GitHubs:
+[@ADFMR](https://github.com/adfmr) (you are here) 
+
+[@Biomagnetism](https://github.com/biomagnetism)
 
 ---
 
